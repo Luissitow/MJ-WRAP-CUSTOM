@@ -1,0 +1,21 @@
+git add .
+git commit -m "Mensaje descriptivo del cambio"
+
+
+
+git remote add origin https://github.com/usuario/repositorio.git
+
+git push a la rama que estes trabajando,
+si no a la principal 
+
+
+git push origin main
+
+
+
+
+
+
+git add .
+git commit -m "tu mensaje"
+git push origin main
